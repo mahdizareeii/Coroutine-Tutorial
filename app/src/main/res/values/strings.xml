@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coroutine Sample</string>
+    <string name="click_me">click me</string>
+</resources>
